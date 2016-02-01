@@ -16,6 +16,8 @@ public class Ejercicio5 {
      */
     public static void main(String[] args) {
         System.out.println("Soy linux V1.0");
+        
+        System.out.println("Gnome V1.0");
                 
     }
     
