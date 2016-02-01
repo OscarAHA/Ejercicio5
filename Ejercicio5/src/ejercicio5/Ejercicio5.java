@@ -16,6 +16,8 @@ public class Ejercicio5 {
      */
     public static void main(String[] args) {
         System.out.println("Soy linux V2.0");
+        
+        System.out.println("Distribucion Mandriva V2.0");
                 
     }
     
