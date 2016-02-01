@@ -15,7 +15,7 @@ public class Ejercicio5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Soy linux V1.0");
+        System.out.println("Soy linux V2.0");
                 
     }
     
