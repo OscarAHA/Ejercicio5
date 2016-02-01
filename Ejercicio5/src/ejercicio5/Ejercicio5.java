@@ -18,6 +18,7 @@ public class Ejercicio5 {
         System.out.println("Soy linux V1.0");
         
         System.out.println("Drivers V1.0");
+        System.out.println("Gnome V1.0");
                 
     }
     
